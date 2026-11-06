@@ -2,7 +2,11 @@
 
 Simulación en tiempo real de **80.000 partículas** con física de colisiones, implementada en CUDA y visualizada con OpenGL. El proyecto incluye una versión CPU multihilo para comparativa de rendimiento.
 
-![Demo](demo.gif)
+
+
+https://github.com/user-attachments/assets/c9ba2e48-4802-43a7-87c8-a76937e4645f
+
+
 
 ---
 
